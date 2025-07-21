@@ -1,4 +1,4 @@
-## 1. What is a OOP?
+# 1. What is a OOP?
 
 **OOPs** stands for **Object-Oriented Programming System**. 
 

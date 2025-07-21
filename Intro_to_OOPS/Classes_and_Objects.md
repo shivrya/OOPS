@@ -1,4 +1,4 @@
-## 1. What is a class?
+# 1. What is a class?
 
 Logic!! Logical representation or blueprint of the business logic.
 
